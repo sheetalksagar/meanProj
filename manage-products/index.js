@@ -39,6 +39,11 @@ mongoose.connection.on("error", (err) => {
   }
 });
 
+/*
+app.get() : app internal commu
+router.get() : app external commu
+*/
+
 // Interacting with front-end
 app.get("/", (req, res) => {
   res.send("<h1>Response from 'server'...!</h1>");

@@ -3,7 +3,7 @@
 ## Prerequisite
 
 - UI / UX
-- [<img width="22px" alt="angular.io" src="https://angular.io/assets/images/logos/angular/angular.svg" />][ng] Angular
+- [<img width="16px" alt="angular.io" src="https://angular.io/assets/images/logos/angular/angular.svg" />][ng] Angular
 - NodeJs
 - ExpressJs
 - MongoDB

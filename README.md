@@ -1,12 +1,17 @@
-### MEAN Project 🔣 [gitHub Repo][gitrepo]
+# MEAN Project 🔣 [gitHub Repo][gitrepo]
 
--
+## Prerequisite
 
-## Mongo setup
+- UI / UX
+- Angular
+- NodeJs
+- ExpressJs
+- MongoDB
+- Postman
+- Mongoose
+- Restful API
 
---
-
-# mongod --dbpath ='path'
+### mongod --dbpath ='path'
 
 ---
 

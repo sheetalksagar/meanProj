@@ -4,6 +4,4 @@
 
 # mongod --dbpath ='path'
 
----
-
 [gitrepo]: https://github.com/msraosuryawanshi/meanproj

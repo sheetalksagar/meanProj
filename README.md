@@ -13,7 +13,9 @@
 
 ### mongod --dbpath ='path'
 
----
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+## [GitHub](http://github.com)
 
 [gitrepo]: https://github.com/msraosuryawanshi/meanproj
 [ng]: https://angular.io/

@@ -18,28 +18,20 @@ _What is Express? It's a web framework that lets you structure a web application
 
 **What is Mongoose in ExpressJS and its work?**
 <br>
-<br>
-
 _Mongoose: Mongoose is a MongoDB object modelling tool designed to work in an asynchronous environment._
 _Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB._
+<br>
 
 **How does Cors work?**
-<br>
-<br>
-
 _The CORS standard is needed because it allows servers to specify not just who can access its assets, but also how the assets can be accessed._ _Cross-origin requests are made using the standard HTTP request methods._
 _The browser's same-origin policy blocks reading a resource from a different origin. This mechanism stops a malicious site from reading another site's data, but it also prevents legitimate uses._
 
 **How Cors works in Express?**
 <br>
-<br>
-
 _The easiest way to get CORS working in Express is by using the cors npm module. That's it. CORS is now enabled. The Access-Control-Allow-Origin header determines which origins are allowed to access server resources over CORS (the wildcard allows access from any origin)_
 
 **What is Nodemon used for?**
 <br>
-<br>
-
 _Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development._
 _nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected. nodemon does not require any additional changes to your code or method of development._
 

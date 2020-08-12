@@ -60,5 +60,5 @@ router.get(){    --> RESTAPI
 }
 
 
-> db.myColl.in  | PostMan  | FronEnd
+> db.myColl.insert()  | PostMan  | FronEnd
 */

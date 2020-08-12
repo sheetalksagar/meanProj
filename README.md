@@ -53,9 +53,9 @@ _nodemon is a tool that helps develop node.js based applications by automaticall
 
 ### mongod --dbpath ='path'
 
-| aaa | aaa |
-| --- | --- |
-| bbb | bbb |
+<!-- | aaaaaaaaa | aaassssssss |
+| :-------: | ----------: |
+|    bbb    |       lorem | -->
 
 ---
 

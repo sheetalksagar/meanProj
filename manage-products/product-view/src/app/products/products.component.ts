@@ -25,4 +25,19 @@ export class ProductsComponent implements OnInit {
       this.products = products;
     });
   }
+
+  addProduct() {
+    const newProduct = {
+      prodId: this.prodId,
+      prodName: this.prodName,
+      price: this.price,
+    };
+    this.productsService.addProduct(newProduct).subscribe((product) => {
+      console.log(' addProduct -> product : ', product);
+      this.products.push(product);
+      this.productsService
+        .getProducts()
+        .subscribe((products) => (this.products = products));
+    });
+  }
 }

@@ -50,3 +50,12 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => console.log("Server started at port: " + port)); // testing Server
+
+/*
+
+ Bootstrap  : CSS + [JS + Jqury] : DOM
+ ngb
+ Angular : DOM
+
+ <p>  </p>
+*/
